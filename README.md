@@ -1,1 +1,2 @@
-# CardFlip
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Inspired by this [page](https://3dtransforms.desandro.com/card-flip).
